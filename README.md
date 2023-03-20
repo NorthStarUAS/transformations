@@ -20,3 +20,7 @@ The build module will create a .whl file in the dist/ directory (double check ac
 ```
 pip install dist/transformations-2013.6.29-py3-none-any.whl
 ```
+
+## Documentation and usage
+
+Please refer to the transformations.py file itself for available functions and usage as it is self-documenting.
